@@ -21,6 +21,7 @@ div button{
     padding: 7px 13px;
     border-radius: 3px;
     text-transform: uppercase;
+    cursor: pointer;
 
 }
 
