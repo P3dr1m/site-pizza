@@ -15,6 +15,20 @@ div{
     color: white;
 }
 
+div button{
+    color: aliceblue;
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+
+}
+
+button.active, button:hover{
+    background: #eb0404;
+    transition: 5px;
+}
+
 p{
     padding-top: 20px;
     font-size: 20px;
@@ -35,7 +49,7 @@ button{
     border-radius: 10px;
     border-width: 5px;
 }
-
+  
 
 body {
     font-family: sans-serif;
